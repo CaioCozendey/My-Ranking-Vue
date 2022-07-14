@@ -1,18 +1,15 @@
 <script>
-import Nav from '../Home/Nav.vue'
+import NavBar from './NavBar'
 
 export default {
-    name: "HomeView",
-    views: {
-        Nav
-    },
-    components: { Nav }
+    name: "NavBar",
+    components: { NavBar }
 }
 </script>
 
 <template>
 
-    <Nav />
+    <NavBar/>
 
 </template>
 

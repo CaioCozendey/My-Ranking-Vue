@@ -7,9 +7,7 @@ import HomeView from './views/Home/HomeView.vue'
 
 export default {
     name: "App",
-    views: {
-        HomeView
-    },
+    views: { HomeView },
     components: { HomeView }
 }
 </script>
