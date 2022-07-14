@@ -3,12 +3,13 @@
 
 :root {  
     /* My Colors*/
-    --background-gradient-primario: #020411;
+    --background-gradient-primario: #01020c;
     --background-gradient-secundario: #202255;
     --letra-primaria: #ffffff;
     --letra-secundaria: #5dcbb3;
     --gradient-primario: #5e52ce;
     --gradient-secundaria: #8b73c8;
+    --preto: #070707;
   }
   
   @media (prefers-color-scheme: dark) {
